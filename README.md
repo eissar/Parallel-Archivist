@@ -1,7 +1,6 @@
 # Parallel-Archivist --WIP--
 Save webpage content effortlessly <br />
- <br /> a
- <br />
+<br />
 To Do: <br />
 - ~~save html of an element/whole page~~
 - ~~save css of an element/whole page~~
