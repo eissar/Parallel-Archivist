@@ -6,9 +6,9 @@ To Do: <br />
 - ~~save css of an element/whole page~~
 - Save Fonts
 - config file 
-- 
+- display CSS/html and computed preview dynamically 
 
-display CSS/html and computed preview dynamically <br />
+<br />
 
 ## Structure 
 each folder is currently a module (wip) for saving user-accessible data from the web.<br /> 
