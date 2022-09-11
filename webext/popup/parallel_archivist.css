@@ -1,0 +1,71 @@
+/* CSS */
+html, body {
+    overflow: scroll;
+    background-color: #281d4e;
+    transition: max-height .2s;
+}
+
+#parallelArchivistHoverMenu {
+    z-index: 99999999999999999999999999;
+    width:15em;
+}
+#padding {
+  height:1.5em;
+  margin-left: .5em;
+  margin-right: .5em;
+  margin-top: .5em;
+  font-weight: bold;
+  font-family: system-ui;
+  color: #e8e0ff;
+}
+.icon {
+  padding: .3em;
+  border-radius: 6px;
+  padding: 2px;
+  height: 100%;
+
+
+}
+.icon:hover {
+  background:#4d4477;
+  cursor: pointer;
+}
+.settingsicon {
+  float: right;
+}
+.collapseicon {
+  float: right;
+  stroke:#c68aff;
+  stroke-width:2;
+  stroke-linecap:round;
+  stroke-linejoin:round
+}
+li {
+  padding: .3em;
+  border-radius: 6px;
+}
+li:hover {
+  background:#4d4477;
+  cursor: pointer;
+}
+#innerthing {
+  padding-top: 1em;
+  margin: .4em;
+  color: #e8e0ff;
+  overflow: hidden;
+  font-family: system-ui;
+}
+.innerlist {
+  display: table;
+  margin: 0 auto;
+}
+.hover {
+  max-height:2.4em !important;
+  border-style: dotted;
+}
+.hover:hover {
+  max-height: 100% !important;
+}
+.stroke {
+  stroke: #ffffff;
+}
